@@ -1,2 +1,22 @@
 sohail
 commit 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+commit 3
+commit 4
+commit 5
+<<<<<<< HEAD
+commit 6
+>>>>>>> 1f34d65... commit 6
+=======
+commit 3
+commit 4
+>>>>>>> 7c18991... commit 3
+=======
+>>>>>>> ba358cf... commit 5
+=======
+commit 3
+commit 4
+>>>>>>> 7c18991... commit 3
